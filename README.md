@@ -1,12 +1,32 @@
-# React + Vite
+# 🛠️ Start Framework - React UI Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive React starter template built using Bootstrap 5.  
+Perfect for quick prototyping, landing pages, or starting a scalable front-end project.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚡ Responsive and mobile-friendly layout
+- 📁 Organized folder structure for easy scaling
+- 🎨 Bootstrap 5 integrated
+- 🔤 FontAwesome icons ready
+- 🚦 Smooth navigation with React Router
+- ❌ Custom 404 Not Found Page
+- 💫 Custom input animations and floating placeholders
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![screenshot](./screenshot.png)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo and run:
+
+```bash
+npm install
+npm start
