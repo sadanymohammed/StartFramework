@@ -1,0 +1,17 @@
+.nav-link-custom {
+  color: white;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.nav-link-custom.active {
+  color: #fff !important;
+  background-color: #1abc9c !important;
+}
+
+
+.navbar {
+  background-color: #2C3E50 !important;
+}

@@ -1,0 +1,11 @@
+.about {
+  background-color: #1abc9c;
+  height: 80vh;
+  padding: 15%;
+}
+
+.white-line {
+  height: 4px;
+  background-color: #fff ;
+  width: 90px;
+}

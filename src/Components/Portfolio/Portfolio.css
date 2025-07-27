@@ -1,0 +1,43 @@
+.line {
+  height: 4px;
+  background-color: #2C3E50;
+  width: 90px;
+}
+.star-color{
+  color: #2C3E50;
+}
+
+.portfolio-item {
+  cursor: pointer;
+  border-radius: 8px;
+  position: relative;
+}
+
+.portfolio-item img {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.portfolio-item .overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 180, 180, 0.7);
+  opacity: 0;
+  transition: 0.3s ease;
+  border-radius: 8px;
+}
+
+.portfolio-item:hover .overlay {
+  opacity: 1;
+}
+.modalImg{
+  width: 80%;
+}
+
+/* @media (max-width: 2000px ) {
+  .modal img {
+    width: 100% !important;
+    height: 50% !important;
+  }
+} */
